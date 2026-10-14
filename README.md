@@ -6,6 +6,8 @@
 
 ## 🎮 Server Connection Details
 
+<a href="https://minecraft-statistic.net/en/server/backbenchers1.html"><img src="https://minecraft-statistic.net/en/userbars/560x90/server/276141.png" ></a>
+
 You can join the server using the specific Java or Bedrock network details below. 
 
 ### ☕ Java Edition
